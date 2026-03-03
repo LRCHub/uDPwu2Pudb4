@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Flyers!!!",
+  "base_artist": "765 MILLION ALLSTARS",
+  "createdAt": "2026-03-03T01:34:29.036961Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flyers",
+      "artist": "BRADIO",
+      "has_synced": true,
+      "path": "select/01_Flyers_BRADIO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Play That Song (With The Dixie Flyers)",
+      "artist": "Aretha Franklin",
+      "has_synced": false,
+      "path": "select/02_Don't_Play_That_Song_(With_The_Dixie_Flyers)_Aretha_Franklin.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let It Be (With The Dixie Flyers)",
+      "artist": "Aretha Franklin",
+      "has_synced": false,
+      "path": "select/03_Let_It_Be_(With_The_Dixie_Flyers)_Aretha_Franklin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Spirit In The Dark (With The Dixie Flyers)",
+      "artist": "Aretha Franklin",
+      "has_synced": false,
+      "path": "select/04_Spirit_In_The_Dark_(With_The_Dixie_Flyers)_Aretha_Franklin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Thrill Is Gone (With The Dixie Flyers)",
+      "artist": "Aretha Franklin",
+      "has_synced": false,
+      "path": "select/05_The_Thrill_Is_Gone_(With_The_Dixie_Flyers)_Aretha_Franklin.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "FLYERS",
+      "artist": "上坂堇",
+      "has_synced": true,
+      "path": "select/06_FLYERS_上坂堇.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Flyers",
+      "artist": "上坂すみれ",
+      "has_synced": true,
+      "path": "select/07_Flyers_上坂すみれ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Are the Flyers",
+      "artist": "Lara Fabian",
+      "has_synced": false,
+      "path": "select/08_We_Are_the_Flyers_Lara_Fabian.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Flyer's High",
+      "artist": "嵐 千砂都 (CV.岬 なこ)",
+      "has_synced": true,
+      "path": "select/09_Flyer's_High_嵐_千砂都_(CV.岬_なこ).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Flyer's High",
+      "artist": "嵐千砂都(CV.岬なこ)",
+      "has_synced": true,
+      "path": "select/10_Flyer's_High_嵐千砂都(CV.岬なこ).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Flyers",
+      "artist": "Bradio",
+      "has_synced": true,
+      "path": "select/11_Flyers_Bradio.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flyers Up",
+      "artist": "Tee Grizzley feat. Lil Durk",
+      "has_synced": true,
+      "path": "select/12_Flyers_Up_Tee_Grizzley_feat._Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Flyers Up",
+      "artist": "Tee Grizzley & Lil Durk",
+      "has_synced": true,
+      "path": "select/13_Flyers_Up_Tee_Grizzley_&_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Flyers",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/14_Flyers_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Play That Song (with The Dixie Flyers) [Mono]",
+      "artist": "Aretha Franklin",
+      "has_synced": false,
+      "path": "select/15_Don't_Play_That_Song_(with_The_Dixie_Flyers)_[Mono]_Aretha_Franklin.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Let It Be (with The Dixie Flyers) [Mono]",
+      "artist": "Aretha Franklin",
+      "has_synced": false,
+      "path": "select/16_Let_It_Be_(with_The_Dixie_Flyers)_[Mono]_Aretha_Franklin.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Spirit In the Dark (with The Dixie Flyers) [Mono]",
+      "artist": "Aretha Franklin",
+      "has_synced": false,
+      "path": "select/17_Spirit_In_the_Dark_(with_The_Dixie_Flyers)_[Mono]_Aretha_Franklin.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Thrill Is Gone (with The Dixie Flyers) [Mono]",
+      "artist": "Aretha Franklin",
+      "has_synced": false,
+      "path": "select/18_The_Thrill_Is_Gone_(with_The_Dixie_Flyers)_[Mono]_Aretha_Franklin.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Flyers!!!",
+      "artist": "765 MILLIONALLSTARS",
+      "has_synced": false,
+      "path": "select/pl_01_Flyers!!!_765_MILLIONALLSTARS.txt"
+    }
+  ]
+}
